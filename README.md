@@ -14,7 +14,7 @@ Keeper-App is a note-taking frontend web application that allows users to create
 ![Home Screen](media/home_screen.png)
 
 ### Sample Video
-[Sample Video](media/sample_video.mov)
+![Sample Video](media/sample_video.gif)
 
 ## Live Demo
 
